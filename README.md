@@ -20,7 +20,7 @@
      <img width="140" alt="image" src="">
   </a>
 
-  <h3 align="center">PROJECT_NAME</h3>
+  <h3 align="center">SnakeGameAI</h3>
 
   <p align="center">
   <!-- UPDATE -->
