@@ -17,7 +17,7 @@
 <!-- UPDATE -->
 <div align="center">
   <a href="https://github.com/cgs-iitkgp/SnakeGameAI">
-     <img width="140" alt="image" src="Screenshot 2025-08-03 195807.png">
+     <img width="140" alt="image" src="">
   </a>
 
   <h3 align="center">PROJECT_NAME</h3>
@@ -51,7 +51,7 @@
 <!-- UPDATE -->
 <div align="center">
   <a href="https://github.com/cgs-iitkgp/PROJECT_NAME">
-    <img width="80%" alt="image" src="https://user-images.githubusercontent.com/86282911/206632547-a3b34b47-e7ae-4186-a1e6-ecda7ddb38e6.png">
+    <img width="80%" alt="image" src="Screenshot 2025-08-03 195807.png">
   </a>
 </div>
 
