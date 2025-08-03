@@ -17,7 +17,7 @@
 <!-- UPDATE -->
 <div align="center">
   <a href="https://github.com/cgs-iitkgp/SnakeGameAI">
-     <img width="140" alt="image" src="Screenshot 2025-08-03 195807.png">
+     <img width="140" alt="image" src="D:\reinforcement learning\snake game\Screenshot 2025-08-03 195807.png">
   </a>
 
   <h3 align="center">PROJECT_NAME</h3>
