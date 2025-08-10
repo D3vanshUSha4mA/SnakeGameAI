@@ -17,7 +17,7 @@
 <!-- UPDATE -->
 <div align="center">
   <a href="https://github.com/cgs-iitkgp/PROJECT_NAME">
-     <img width="140" alt="image" src="">
+     <img width="140" alt="image" src="https://handsontek.net/images/Teams/Snake/hero.png">
   </a>
 
   <h3 align="center">SnakeGameAI</h3>
