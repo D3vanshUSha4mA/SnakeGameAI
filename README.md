@@ -16,15 +16,15 @@
 <br />
 <!-- UPDATE -->
 <div align="center">
-  <a href="https://github.com/cgs-iitkgp/SnakeGameAI">
+  <a href="https://github.com/cgs-iitkgp/PROJECT_NAME">
      <img width="140" alt="image" src="">
   </a>
 
-  <h3 align="center">SnakeGameAI</h3>
+  <h3 align="center">PROJECT_NAME</h3>
 
   <p align="center">
   <!-- UPDATE -->
-    <i>Snake game being played by AI</i>
+    <i>Project one liner slogan goes here</i>
   </p>
 </div>
 
@@ -51,20 +51,11 @@
 <!-- UPDATE -->
 <div align="center">
   <a href="https://github.com/cgs-iitkgp/PROJECT_NAME">
-    <img width="80%" alt="image" src="Screenshot 2025-08-03 195807.png">
+    <img width="80%" alt="image" src="https://user-images.githubusercontent.com/86282911/206632547-a3b34b47-e7ae-4186-a1e6-ecda7ddb38e6.png">
   </a>
 </div>
 
-Train a Deep-Q-Learning agent to play the classic snake game autonomously by learning from its own experience.
-The goal is to maximize the score while avoiding collisions with the walls and itself.
-The snake environment is build using pygame and the model is implemented using pytorch.The agent receives an 11-dimensional state representation and chooses among 3 possible actions(straight,left,right) and is rewarded as following-
-Eats food= +10
-Dies= -10
-Else = +0
-Languages used-Python
-Libraries used-
-PyTorch,Pygame,Numpy,Matplotlib…..
-
+_Detailed explaination of the project goes here_
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -88,16 +79,16 @@ _Now that the environment has been set up and configured to properly compile and
 <!-- UPDATE -->
 1. Clone the repository
    ```sh
-   git clone https://github.com/cgs-iitkgp/SnakeGameAI.git
+   git clone https://github.com/cgs-iitkgp/PROJECT_NAME.git
    ```
 2. Make the script executable
    ```sh
-   cd ./SnakeGameAI
-   chmod +x ./SnakeGameAI
+   cd ./PROJECT_NAME
+   chmod +x ./PROJECT_NAME
    ```
 3. Execute the script
    ```sh
-   ./SnakeGameAI
+   ./PROJECT_NAME
    ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -145,13 +136,13 @@ Honoring the original creator(s) and ideator(s) of this project.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/https://github.com/D3vanshUSha4mA/SnakeGameAI.svg?style=for-the-badge
-[contributors-url]: https://github.com/https://github.com/D3vanshUSha4mA/SnakeGameAI/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/https://github.com/D3vanshUSha4mA/SnakeGameAI.svg?style=for-the-badge
-[forks-url]: https://github.com/https://github.com/D3vanshUSha4mA/SnakeGameAI/network/members
-[stars-shield]: https://img.shields.io/github/stars/https://github.com/D3vanshUSha4mA/SnakeGameAI.svg?style=for-the-badge
-[stars-url]: https://github.com/https://github.com/D3vanshUSha4mA/SnakeGameAI/stargazers
-[issues-shield]: https://img.shields.io/github/issues/https://github.com/D3vanshUSha4mA/SnakeGameAI.svg?style=for-the-badge
-[issues-url]: https://github.com/https://github.com/D3vanshUSha4mA/SnakeGameAI/issues
-[license-shield]: https://img.shields.io/github/license/https://github.com/D3vanshUSha4mA/SnakeGameAI.svg?style=for-the-badge
-[license-url]: https://github.com/https://github.com/D3vanshUSha4mA/SnakeGameAI/blob/master/LICENSE
+[contributors-shield]: https://img.shields.io/github/contributors/D3vanshUSha4mA/SnakeGameAI.svg?style=for-the-badge
+[contributors-url]: https://github.com/D3vanshUSha4mA/SnakeGameAI/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/D3vanshUSha4mA/SnakeGameAI.svg?style=for-the-badge
+[forks-url]: https://github.com/D3vanshUSha4mA/SnakeGameAI/network/members
+[stars-shield]: https://img.shields.io/github/stars/D3vanshUSha4mA/SnakeGameAI.svg?style=for-the-badge
+[stars-url]: https://github.com/D3vanshUSha4mA/SnakeGameAI/stargazers
+[issues-shield]: https://img.shields.io/github/issues/D3vanshUSha4mA/SnakeGameAI.svg?style=for-the-badge
+[issues-url]: https://github.com/D3vanshUSha4mA/SnakeGameAI/issues
+[license-shield]: https://img.shields.io/github/license/D3vanshUSha4mA/SnakeGameAI.svg?style=for-the-badge
+[license-url]: https://github.com/D3vanshUSha4mA/SnakeGameAI/blob/master/LICENSE
