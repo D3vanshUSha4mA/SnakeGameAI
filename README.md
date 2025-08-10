@@ -52,7 +52,7 @@
 <!-- UPDATE -->
 <div align="center">
   <a href="https://github.com/cgs-iitkgp/PROJECT_NAME">
-    <img width="80%" alt="image" src="https://user-images.githubusercontent.com/86282911/206632547-a3b34b47-e7ae-4186-a1e6-ecda7ddb38e6.png">
+    <img width="80%" alt="image" src="Screenshot 2025-08-03 195807.png">
   </a>
 </div>
 
@@ -90,14 +90,9 @@ _Now that the environment has been set up and configured to properly compile and
    ```sh
    git clone https://github.com/cgs-iitkgp/PROJECT_NAME.git
    ```
-2. Make the script executable
+2. Execute the script
    ```sh
-   cd ./PROJECT_NAME
-   chmod +x ./PROJECT_NAME
-   ```
-3. Execute the script
-   ```sh
-   ./PROJECT_NAME
+   ./main.exe
    ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -123,14 +118,14 @@ Use this space to show useful examples of how this project can be used. Addition
 The currently active maintainer(s) of this project.
 
 <!-- UPDATE -->
-- [NAME](https://github.com/GITHUB_USERNAME)
+- [NAME](https://github.com/D3vanshUSha4mA)
 
 ### Creator(s)
 
 Honoring the original creator(s) and ideator(s) of this project.
 
 <!-- UPDATE -->
-- [NAME](https://github.com/GITHUB_USERNAME)
+- [NAME](https://github.com/D3vanshUSha4mA)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
