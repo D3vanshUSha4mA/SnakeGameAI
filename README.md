@@ -118,14 +118,14 @@ Use this space to show useful examples of how this project can be used. Addition
 The currently active maintainer(s) of this project.
 
 <!-- UPDATE -->
-- [NAME](https://github.com/D3vanshUSha4mA)
+- [DEVANSHU SHARMA](https://github.com/D3vanshUSha4mA)
 
 ### Creator(s)
 
 Honoring the original creator(s) and ideator(s) of this project.
 
 <!-- UPDATE -->
-- [NAME](https://github.com/D3vanshUSha4mA)
+- [DEVANSHU SHARMA](https://github.com/D3vanshUSha4mA)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
