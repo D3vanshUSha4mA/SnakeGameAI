@@ -24,7 +24,8 @@
 
   <p align="center">
   <!-- UPDATE -->
-    <i>Project one liner slogan goes here</i>
+    <i>Train a Deep-Q-Learning agent to play the classic snake game autonomously by learning from its own experience.
+</i>
   </p>
 </div>
 
@@ -55,7 +56,15 @@
   </a>
 </div>
 
-_Detailed explaination of the project goes here_
+The goal is to maximize the score while avoiding collisions with the walls and itself.
+The snake environment is build using pygame and the model is implemented using pytorch.The agent receives an 11-dimensional state representation and chooses among 3 possible actions(straight,left,right) and is rewarded as following-
+Eats food= +10
+Dies= -10
+Else = +0
+Languages used-Python
+Libraries used-
+PyTorch,Pygame,Numpy,Matplotlib…..
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
