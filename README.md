@@ -145,13 +145,13 @@ Honoring the original creator(s) and ideator(s) of this project.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/cgs-iitkgp/PROJECT_NAME.svg?style=for-the-badge
-[contributors-url]: https://github.com/cgs-iitkgp/PROJECT_NAME/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/cgs-iitkgp/PROJECT_NAME.svg?style=for-the-badge
-[forks-url]: https://github.com/cgs-iitkgp/PROJECT_NAME/network/members
-[stars-shield]: https://img.shields.io/github/stars/cgs-iitkgp/PROJECT_NAME.svg?style=for-the-badge
-[stars-url]: https://github.com/cgs-iitkgp/PROJECT_NAME/stargazers
-[issues-shield]: https://img.shields.io/github/issues/cgs-iitkgp/PROJECT_NAME.svg?style=for-the-badge
-[issues-url]: https://github.com/cgs-iitkgp/PROJECT_NAME/issues
-[license-shield]: https://img.shields.io/github/license/cgs-iitkgp/PROJECT_NAME.svg?style=for-the-badge
-[license-url]: https://github.com/cgs-iitkgp/PROJECT_NAME/blob/master/LICENSE
+[contributors-shield]: https://img.shields.io/github/contributors/https://github.com/D3vanshUSha4mA/SnakeGameAI.svg?style=for-the-badge
+[contributors-url]: https://github.com/https://github.com/D3vanshUSha4mA/SnakeGameAI/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/https://github.com/D3vanshUSha4mA/SnakeGameAI.svg?style=for-the-badge
+[forks-url]: https://github.com/https://github.com/D3vanshUSha4mA/SnakeGameAI/network/members
+[stars-shield]: https://img.shields.io/github/stars/https://github.com/D3vanshUSha4mA/SnakeGameAI.svg?style=for-the-badge
+[stars-url]: https://github.com/https://github.com/D3vanshUSha4mA/SnakeGameAI/stargazers
+[issues-shield]: https://img.shields.io/github/issues/https://github.com/D3vanshUSha4mA/SnakeGameAI.svg?style=for-the-badge
+[issues-url]: https://github.com/https://github.com/D3vanshUSha4mA/SnakeGameAI/issues
+[license-shield]: https://img.shields.io/github/license/https://github.com/D3vanshUSha4mA/SnakeGameAI.svg?style=for-the-badge
+[license-url]: https://github.com/https://github.com/D3vanshUSha4mA/SnakeGameAI/blob/master/LICENSE
